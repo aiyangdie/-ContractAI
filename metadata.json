@@ -1,0 +1,5 @@
+{
+  "name": "智律 - 全能AI合同生成器",
+  "description": "基于Google Gemini的智能多语言合同生成平台。支持个人、公司等多种场景，自动生成符合法律规范的专业合同，支持全球任意语言输出。",
+  "requestFramePermissions": []
+}
