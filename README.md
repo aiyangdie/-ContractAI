@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/26-ContractAI.jpg" alt="-ContractAI 项目封面" width="100%"></p>
+
 <div align="center">
 
 # ⚖️ 智律 ContractAI
